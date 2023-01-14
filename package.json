@@ -1,7 +1,7 @@
 {
   "name": "@uzenith360/ngx-unsaved-changes",
   "version": "0.0.0",
-  "description": "An Angular library NPM starter (or example) project to ease setup of Angular libraries as NPM packages from your GitHub repo",
+  "description": "An Angular 'canDeactivate' route guard to warn about unsaved form or page data",
   "scripts": {
     "clean": "rm -rf ./dist",
     "ng": "ng",
