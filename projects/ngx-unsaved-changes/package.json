@@ -1,5 +1,6 @@
 {
   "name": "@uzenith360/ngx-unsaved-changes",
+  "version": "0.0.0",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/",
     "access": "public",
