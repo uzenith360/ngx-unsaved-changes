@@ -1,5 +1,5 @@
 import { Inject, Injectable } from '@angular/core';
-import { CanDeactivate } from '@angular/router';
+
 import { ComponentCanDeactivate } from './component-can-deactivate';
 import EnvironmentConfig from './environment-config.interface';
 import EnvironmentConfigService from './environment-config.service';
@@ -7,7 +7,7 @@ import EnvironmentConfigService from './environment-config.service';
 @Injectable({
   providedIn: 'root'
 })
-export class CanDeactivateGuard implements CanDeactivate<ComponentCanDeactivate> {
+export class CanDeactivateGuard  {
   constructor(@Inject(EnvironmentConfigService) private config: EnvironmentConfig){}
 
   canDeactivate(component: ComponentCanDeactivate): boolean {
