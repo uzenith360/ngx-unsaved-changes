@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/uzenith360/ngx-unsaved-changes/compare/v1.0.1...v1.1.0) (2023-10-01)
+
+
+### Features
+
+* upgrade to angular 16 ([be99946](https://github.com/uzenith360/ngx-unsaved-changes/commit/be999460221606ba0e3e99c72fc0cb51cf01e778))
+
 ## [1.0.1](https://github.com/uzenith360/ngx-unsaved-changes/compare/v1.0.0...v1.0.1) (2023-01-28)
 
 
