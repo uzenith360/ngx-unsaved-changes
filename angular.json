@@ -44,11 +44,12 @@
       "prefix": "app",
       "architect": {
         "build": {
-          "builder": "@angular-devkit/build-angular:browser",
+          "builder": "@angular-devkit/build-angular:application",
           "options": {
-            "outputPath": "dist/ngx-unsaved-changes-example-app",
+            "outputPath": {
+              "base": "dist/ngx-unsaved-changes-example-app"
+            },
             "index": "projects/ngx-unsaved-changes-example-app/src/index.html",
-            "main": "projects/ngx-unsaved-changes-example-app/src/main.ts",
             "polyfills": [
               "zone.js"
             ],
@@ -60,7 +61,8 @@
             "styles": [
               "projects/ngx-unsaved-changes-example-app/src/styles.css"
             ],
-            "scripts": []
+            "scripts": [],
+            "browser": "projects/ngx-unsaved-changes-example-app/src/main.ts"
           },
           "configurations": {
             "production": {
@@ -79,9 +81,7 @@
               "outputHashing": "all"
             },
             "development": {
-              "buildOptimizer": false,
               "optimization": false,
-              "vendorChunk": true,
               "extractLicenses": false,
               "sourceMap": true,
               "namedChunks": true
