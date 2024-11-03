@@ -1,3 +1,10 @@
+## [1.2.1](https://github.com/uzenith360/ngx-unsaved-changes/compare/v1.2.0...v1.2.1) (2024-01-11)
+
+
+### Bug Fixes
+
+* update lib package.json ([22db8c4](https://github.com/uzenith360/ngx-unsaved-changes/commit/22db8c451c918dedf7400a2004e91ceeb997e839))
+
 # [1.2.0](https://github.com/uzenith360/ngx-unsaved-changes/compare/v1.1.0...v1.2.0) (2024-01-11)
 
 
