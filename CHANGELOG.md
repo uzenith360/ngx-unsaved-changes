@@ -1,3 +1,10 @@
+## [1.3.1](https://github.com/uzenith360/ngx-unsaved-changes/compare/v1.3.0...v1.3.1) (2024-11-04)
+
+
+### Bug Fixes
+
+* add upgrade angular core to 18 ([e0ed04a](https://github.com/uzenith360/ngx-unsaved-changes/commit/e0ed04aac6c5b2519ef46769259b18a3a0e8e4d0))
+
 # [1.3.0](https://github.com/uzenith360/ngx-unsaved-changes/compare/v1.2.1...v1.3.0) (2024-11-03)
 
 
