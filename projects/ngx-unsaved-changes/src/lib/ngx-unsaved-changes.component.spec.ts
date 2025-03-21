@@ -8,8 +8,8 @@ describe('NgxUnsavedChangesComponent', () => {
 
   beforeEach(async () => {
     await TestBed.configureTestingModule({
-      declarations: [ NgxUnsavedChangesComponent ]
-    })
+    declarations: [NgxUnsavedChangesComponent]
+})
     .compileComponents();
 
     fixture = TestBed.createComponent(NgxUnsavedChangesComponent);

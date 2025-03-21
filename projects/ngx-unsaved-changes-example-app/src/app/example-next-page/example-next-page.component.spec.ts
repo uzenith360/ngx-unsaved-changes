@@ -8,8 +8,8 @@ describe('ExampleNextPageComponent', () => {
 
   beforeEach(async () => {
     await TestBed.configureTestingModule({
-      declarations: [ ExampleNextPageComponent ]
-    })
+    imports: [ExampleNextPageComponent]
+})
     .compileComponents();
 
     fixture = TestBed.createComponent(ExampleNextPageComponent);
