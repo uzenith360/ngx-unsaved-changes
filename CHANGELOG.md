@@ -1,3 +1,10 @@
+# [1.4.0](https://github.com/uzenith360/ngx-unsaved-changes/compare/v1.3.2...v1.4.0) (2025-03-21)
+
+
+### Features
+
+* migrate to standalone components ([e8f2e5d](https://github.com/uzenith360/ngx-unsaved-changes/commit/e8f2e5d7e5c369adac9447ebae0bb543505103d9))
+
 ## [1.3.2](https://github.com/uzenith360/ngx-unsaved-changes/compare/v1.3.1...v1.3.2) (2024-12-17)
 
 
