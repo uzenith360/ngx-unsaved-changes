@@ -1,3 +1,11 @@
+## [1.3.2](https://github.com/uzenith360/ngx-unsaved-changes/compare/v1.3.1...v1.3.2) (2024-12-17)
+
+
+### Bug Fixes
+
+* upgrade to angular 19 ([1d6d25d](https://github.com/uzenith360/ngx-unsaved-changes/commit/1d6d25d19c9edc2e7d2c64e4b6734205a367162e))
+* upgrade to angular 19 ([fc90ff5](https://github.com/uzenith360/ngx-unsaved-changes/commit/fc90ff58fe2d7adc92d6a983910d9e2fc2abb1b3))
+
 ## [1.3.1](https://github.com/uzenith360/ngx-unsaved-changes/compare/v1.3.0...v1.3.1) (2024-11-04)
 
 
