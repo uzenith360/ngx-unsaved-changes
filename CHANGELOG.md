@@ -1,3 +1,10 @@
+## [1.4.1](https://github.com/uzenith360/ngx-unsaved-changes/compare/v1.4.0...v1.4.1) (2025-04-01)
+
+
+### Bug Fixes
+
+* migrations ([f2dd684](https://github.com/uzenith360/ngx-unsaved-changes/commit/f2dd68486bd2a3d7767de554c588b9c4896146c4))
+
 # [1.4.0](https://github.com/uzenith360/ngx-unsaved-changes/compare/v1.3.2...v1.4.0) (2025-03-21)
 
 
