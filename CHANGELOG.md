@@ -1,3 +1,10 @@
+## [1.4.3](https://github.com/uzenith360/ngx-unsaved-changes/compare/v1.4.2...v1.4.3) (2025-04-01)
+
+
+### Bug Fixes
+
+* update peer dependencies ([60f67b1](https://github.com/uzenith360/ngx-unsaved-changes/commit/60f67b185ce0fd795d2517d0747f1d42bb25f77c))
+
 ## [1.4.2](https://github.com/uzenith360/ngx-unsaved-changes/compare/v1.4.1...v1.4.2) (2025-04-01)
 
 
